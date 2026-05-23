@@ -1,2 +1,2 @@
-new content in file1
+new content in file1 in master Modifide
 more content balabalabala in dev branch zaifenzhili
