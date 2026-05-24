@@ -1,2 +1,4 @@
 hello git
 master content
+new content 
+slove this problem
